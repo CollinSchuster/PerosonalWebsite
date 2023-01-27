@@ -16,7 +16,7 @@ body {
 }
 .About-Body {
   color: transparent;
-  border-width: 55px 90%;
+  border-width: 55px 10px;
   z-index: 90;
 }
 img {
