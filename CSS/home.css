@@ -68,6 +68,10 @@ h2{
   font-size: medium;
 
 }
+p{
+  margin-top: 20px;
+  color: #000;
+}
 .image:hover{
   opacity: 0.8
 }
