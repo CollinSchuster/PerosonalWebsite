@@ -14,7 +14,11 @@ body {
   z-index: 100;
   background-color: #F1F0ED;
 }
-
+.About-Body {
+  color: transparent;
+  border-width: 55px 90%;
+  z-index: 90;
+}
 img {
   height: 50px;
 }
@@ -71,6 +75,7 @@ h2{
 p{
   margin-top: 20px;
   color: #000;
+  text-align: center;
 }
 .image:hover{
   opacity: 0.8
